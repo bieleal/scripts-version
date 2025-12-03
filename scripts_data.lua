@@ -1,6 +1,6 @@
 {
   "ffscript": {
-    "version": 0.1,
-    "maintenance": true
+    "version": 1.1,
+    "maintenance": false
   }
 }
