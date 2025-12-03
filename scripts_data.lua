@@ -1,5 +1,5 @@
 {
   "ffscript": {
-    "maintenance": false
+    "maintenance": true
   }
 }
